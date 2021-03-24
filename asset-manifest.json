@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Login-react/static/css/main.5001d013.chunk.css",
+    "main.js": "/Login-react/static/js/main.a53a2db3.chunk.js",
+    "main.js.map": "/Login-react/static/js/main.a53a2db3.chunk.js.map",
+    "runtime-main.js": "/Login-react/static/js/runtime-main.cfc2b0c6.js",
+    "runtime-main.js.map": "/Login-react/static/js/runtime-main.cfc2b0c6.js.map",
+    "static/css/2.2f9ba80b.chunk.css": "/Login-react/static/css/2.2f9ba80b.chunk.css",
+    "static/js/2.ae40a082.chunk.js": "/Login-react/static/js/2.ae40a082.chunk.js",
+    "static/js/2.ae40a082.chunk.js.map": "/Login-react/static/js/2.ae40a082.chunk.js.map",
+    "index.html": "/Login-react/index.html",
+    "static/css/2.2f9ba80b.chunk.css.map": "/Login-react/static/css/2.2f9ba80b.chunk.css.map",
+    "static/css/main.5001d013.chunk.css.map": "/Login-react/static/css/main.5001d013.chunk.css.map",
+    "static/js/2.ae40a082.chunk.js.LICENSE.txt": "/Login-react/static/js/2.ae40a082.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cfc2b0c6.js",
+    "static/css/2.2f9ba80b.chunk.css",
+    "static/js/2.ae40a082.chunk.js",
+    "static/css/main.5001d013.chunk.css",
+    "static/js/main.a53a2db3.chunk.js"
+  ]
+}
